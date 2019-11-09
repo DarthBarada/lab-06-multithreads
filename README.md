@@ -1,3 +1,7 @@
+![travis status bar](https://travis-ci.org/DarthBarada/lab-06-multithreads.svg?branch=master)
+![Code size](https://img.shields.io/github/languages/code-size/DarthBarada/lab-06-multithreads.svg)
+![GitHub Repo size](https://img.shields.io/github/repo-size/DarthBarada/lab-06-multithreads.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)
 # Лабораторная работа №6
 
 ## Задание
