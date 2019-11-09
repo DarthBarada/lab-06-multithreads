@@ -16,7 +16,7 @@ void HashSearcher::SearchHash()
 				} 
 			else
 				{
-				  BOOST_LOG_TRIVIAL(trace) <<"Thread with ID: "<<std::thread::id()<< " || Current value '" << random_string << "' with hash '" << random_hash_string << "'";
+				  BOOST_LOG_TRIVIAL(trace) <<"Thread with ID: "<<std::this_thread::get_id()<< " || Current value '" << random_string << "' with hash '" << random_hash_string << "'";
 				}
 		  }
 	}

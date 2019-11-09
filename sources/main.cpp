@@ -1,10 +1,19 @@
 #include <boost/lexical_cast.hpp>
+#include <boost/log/utility/setup.hpp>
 #include <thread>
 #include <vector>
 #include "HashSearcher.h"
 
+void init()
+    {
+        boost::log::add_file_log("Log.log");
+        srand(time(nullptr));
+        boost::log::add_console_log(std::cout);
+    }
+
 int main(int argc, char* argv[])
 	{
+	    init();
 	  size_t count_of_threads = 0;
 	  if (argc >= 2) 
 		  {
