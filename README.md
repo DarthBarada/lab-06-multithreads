@@ -1,4 +1,5 @@
 ![travis status bar](https://travis-ci.org/DarthBarada/lab-06-multithreads.svg?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a95fe1a38552417e9dec3b0eb781f50c)](https://www.codacy.com/manual/DarthBarada/lab-06-multithreads?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DarthBarada/lab-06-multithreads&amp;utm_campaign=Badge_Grade)
 ![Code size](https://img.shields.io/github/languages/code-size/DarthBarada/lab-06-multithreads.svg)
 ![GitHub Repo size](https://img.shields.io/github/repo-size/DarthBarada/lab-06-multithreads.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)
